@@ -1,10 +1,10 @@
 
 
-<h3>Hello there 👋</h3> 
+<h2>Hello there 👋</h2> 
 
 I am a skilled Data Analyst and Frontend Developer with 2 years of experience. With strong foundation in my fields, I blend in well in technical aspects and articulating well the business needs.
 
-###Skills:
+<bold>Skills:</bold>
 Data Analysis
 Frontend Developer
 
