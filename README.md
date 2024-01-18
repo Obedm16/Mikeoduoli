@@ -1,6 +1,6 @@
 
 
-### Hello there 👋
+<h3>Hello there 👋</h3> 
 
 I am a skilled Data Analyst and Frontend Developer with 2 years of experience. With strong foundation in my fields, I blend in well in technical aspects and articulating well the business needs.
 
@@ -8,7 +8,7 @@ I am a skilled Data Analyst and Frontend Developer with 2 years of experience. W
 Data Analysis
 Frontend Developer
 
-###Data Analysis:
+<strong>Data Analysis:</strong>
 1. Excel
 2. SQL - PostgreSQL, MySQL
 3. Python for Data Analysis (Pandas, NumPy, Matplotlib(plotly), Seaborn) || R 
@@ -16,13 +16,13 @@ Frontend Developer
 5. Snowflake
 6. Data Build Tool
 
-###BI Tools
+<strong>BI Tools</strong>
 1. Excel/Spreadsheet
 2. Tableau
 3. Power BI
 
 
-#####Frontend Developer
+<strong>Frontend Developer</strong>
 1. HTML, CSS and JavaScript
 2. Library: React Js
 3. CSS Framework: Tailwind
