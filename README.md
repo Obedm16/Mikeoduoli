@@ -34,9 +34,9 @@ Frontend Developer
 4. Software Architecture Pattern: Model View Controller (MVC)
 
 <h2>Connect with me via Social:</h2>
-<a href="https://www.linkedin.com/in/obed-oduoli/">LinkedIn</a>
-<i class="fa-brands fa-linkedin"></i>
+<a href="https://www.linkedin.com/in/obed-oduoli/"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
+<br>
 <a href="https://twitter.com/obed_m16"><i class="fa-brands fa-x-twitter"></i>X (Twitter)</a>
-
+<br>
 <a href="https://public.tableau.com/app/profile/obed.oduoli/vizzes">Tableau</a>
 
