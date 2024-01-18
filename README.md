@@ -10,8 +10,8 @@ I am a skilled Data Analyst and Frontend Developer. With strong foundation in my
 
 
 <bold>Skills:</bold>
-Data Analysis
-Frontend Developer
+<li>Data Analysis</li>
+<li>Frontend Developer</li>
 
 <strong>Data Analysis:</strong>
 1. Excel
