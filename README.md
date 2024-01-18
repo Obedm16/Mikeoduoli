@@ -22,7 +22,12 @@ Frontend Developer
 3. Power BI
 
 
-#####
+#####Frontend Developer
+1. HTML, CSS and JavaScript
+2. Library: React Js
+3. CSS Framework: Tailwind
+4. Software Architecture Pattern: Model View Controller (MVC)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
