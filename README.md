@@ -2,7 +2,12 @@
 
 <h2>Hello there 👋</h2> 
 
-I am a skilled Data Analyst and Frontend Developer with 2 years of experience. With strong foundation in my fields, I blend in well in technical aspects and articulating well the business needs.
+I am a skilled Data Analyst and Frontend Developer. With strong foundation in my fields, I blend in well in technical aspects and articulating the business needs.
+
+<strong>Contact:</strong>
+<p class="fa-solid fa-email">mikeoduoli@gmail</p>
+<p class="fa-solid fa-phone"></p>
+
 
 <bold>Skills:</bold>
 Data Analysis
@@ -28,14 +33,8 @@ Frontend Developer
 3. CSS Framework: Tailwind
 4. Software Architecture Pattern: Model View Controller (MVC)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h2>Connect with me via Social:</h2>
+<a href="https://www.linkedin.com/in/obed-oduoli/"> LinkedIn</a>
+<a href="https://twitter.com/obed_m16"> X (Twitter)</a>
+<a href="https://public.tableau.com/app/profile/obed.oduoli/vizzes">Tableau</a>
 
