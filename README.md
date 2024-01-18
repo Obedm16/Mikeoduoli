@@ -5,7 +5,7 @@
 I am a skilled Data Analyst and Frontend Developer. With strong foundation in my fields, I blend in well in technical aspects and articulating the business needs.
 
 <strong>Contact:</strong>
-<p class="fa-solid fa-email">mikeoduoli@gmail</p>
+<p class="fa-solid fa-email">mikeoduoli@gmail.com | oduoliobed@proton.me</p>
 <p class="fa-solid fa-phone"></p>
 
 
