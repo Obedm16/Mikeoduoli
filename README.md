@@ -2,7 +2,7 @@
 
 <h2>Hello there 👋</h2> 
 
-I am a skilled Data Analyst and Frontend Developer. With strong foundation in my fields, I blend in well in technical aspects and articulating the business needs.
+I am a skilled Data Analyst and Frontend Developer. With strong foundation in my field, I blend in well in terms of technical aspect and articulating the business need.
 
 <strong>Contact:</strong>
 <p class="fa-solid fa-email">mikeoduoli@gmail.com</p>
@@ -11,7 +11,7 @@ I am a skilled Data Analyst and Frontend Developer. With strong foundation in my
 
 <bold>Skills:</bold>
 <li>Data Analysis</li>
-<li>Frontend Developer</li>
+<li>Frontend Development</li>
 
 <strong>Data Analysis:</strong>
 1. Excel
