@@ -2,7 +2,7 @@
 
 <h2>Hello there 👋</h2> 
 
-I am a skilled Data Analyst and Frontend Developer. With strong foundation in my field, I blend in well in terms of technical aspect and articulating the business need.
+I am a Frontend Developer and Data & Security Analyst, with strong foundation in my field, I blend in well in terms of technical aspect and articulating the business need.
 
 <strong>Contact:</strong>
 <p class="fa-solid fa-email">mikeoduoli@gmail.com</p>
@@ -29,7 +29,7 @@ I am a skilled Data Analyst and Frontend Developer. With strong foundation in my
 
 <strong>Frontend Developer</strong>
 1. HTML, CSS and JavaScript
-2. Library: React Js
+2. Library: React.Js, Vue.Js
 3. CSS Framework: Tailwind
 4. Software Architecture Pattern: Model View Controller (MVC)
 
