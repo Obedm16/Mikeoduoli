@@ -33,6 +33,11 @@ I am a Frontend Developer and Data & Security Analyst, with strong foundation in
 3. CSS Framework: Tailwind
 4. Software Architecture Pattern: Model View Controller (MVC)
 
+   ## 📌 Pinned Projects
+
+> Coming soon — rebuilding from scratch 💪  
+> Stay tuned for some exciting frontend projects and real-world dashboards.
+
 <h2>Connect with me via Social:</h2>
 <a href="https://www.linkedin.com/in/obed-oduoli/"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
 <br>
